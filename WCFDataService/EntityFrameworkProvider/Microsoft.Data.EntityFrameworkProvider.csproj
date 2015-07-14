@@ -84,6 +84,7 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
     <Compile Include="ReferenceEqualityComparer.cs" />
     <Compile Include="MetadataCache.cs" />
     <Compile Include="ProviderMetadataCacheItem.cs" />
